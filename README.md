@@ -22,14 +22,18 @@ In this project, I aim to develop a deep learning model for the automated classi
 
 **Convolutional Neural Networks (CNNs):** My model will be based on CNNs, which are highly effective for image classification tasks. I will experiment with different architectures and hyperparameters to achieve the best possible performance in classifying diabetic retinopathy.
 
+## Image Processing
+![image](https://github.com/OpenEye-team/disease-notebook/assets/73302268/ef651523-b797-4f9e-8b36-1dc992261605)
+
+
 ## Evaluation
 
 **Performance Metrics:** I will evaluate the model's performance using standard evaluation metrics such as accuracy, precision, recall, F1-score, and confusion matrices for each severity category.
 
 **Clinical Interpretation:** Additionally, I will consider clinical validation and interpretation of the results to assess the model's practical utility in assisting healthcare professionals.
 
-## Code Overview
+## Accuracy
+![image](https://github.com/OpenEye-team/disease-notebook/assets/73302268/a3ad8e33-c646-4460-a3ba-e656c8a83835)
+![image](https://github.com/OpenEye-team/disease-notebook/assets/73302268/d1617721-149f-444b-bef9-b50d5329b971)
 
-The code below implements the diabetic retinopathy classification model using TensorFlow and Keras. I will preprocess the dataset, build the model, train it, and evaluate its performance across all five severity categories.
 
-Let's get started!
